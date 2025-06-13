@@ -32,7 +32,7 @@ export default function HeroSection() {
             </div>
           </div>
 
-          {/* Hero Visual Element - Positioned absolutely to match the screenshot */}
+          {/* Hero Visual Element - Positioned for alignment */}
           <div className="relative lg:absolute lg:right-0 lg:top-1/2 lg:-translate-y-1/2 flex justify-center lg:justify-end">
             <div className="relative">
               {/* White tilted card background */}
